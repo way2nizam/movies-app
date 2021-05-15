@@ -22,7 +22,7 @@ IMG_API = "https://image.tmdb.org/t/p/w1280"
 
 SEARCH_API = "https://api.themoviedb.org/3/search/movie?&api_key=put-key-here&query="
 
-### TMDB
+### TMDB - API Provider
 
 TMDB link: https://www.themoviedb.org/documentation/api
 
