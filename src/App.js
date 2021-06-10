@@ -33,6 +33,7 @@ function App() {
   };
 
   const handleOnChange = (e) => {
+    //console.log(e.target.value);
     setSearchTerm(e.target.value);
   };
 
